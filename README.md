@@ -1,5 +1,6 @@
 # spring-boot-deploy
 Springboot +maven+thymeleaf项目热部署,打包发布配置
+https://blog.csdn.net/bitree1/article/details/108338205
 
 ###热部署配置过程：
 * 1.spring.thymeleaf.cache=false 关闭页面缓存
